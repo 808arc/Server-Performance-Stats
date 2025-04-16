@@ -1,2 +1,1 @@
-# Server-Performance-Stats-
-Script to analyse basic server performance stats
+https://github.com/808arc/Server-Performance-Stats-/tree/dev
